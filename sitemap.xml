@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://impetus82.github.io/bounty-sprint-kit/</loc>
-    <lastmod>2026-05-13</lastmod>
+    <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  <url><loc>https://impetus82.github.io/bounty-sprint-kit/kits/bounty-sprint-kit.html</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://impetus82.github.io/bounty-sprint-kit/kits/micro-bounty-search-pack.html</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://impetus82.github.io/bounty-sprint-kit/kits/no-kyc-checkout-checklist.html</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://impetus82.github.io/bounty-sprint-kit/kits/readme-to-landing-page-kit.html</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://impetus82.github.io/bounty-sprint-kit/kits/ai-agent-task-brief-pack.html</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://impetus82.github.io/bounty-sprint-kit/kits/github-pr-comment-swipe-file.html</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://impetus82.github.io/bounty-sprint-kit/kits/tiny-digital-product-ideas.html</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://impetus82.github.io/bounty-sprint-kit/kits/static-store-starter.html</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://impetus82.github.io/bounty-sprint-kit/kits/ai-code-review-checklist.html</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://impetus82.github.io/bounty-sprint-kit/kits/one-hour-launch-plan.html</loc><lastmod>2026-05-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
-

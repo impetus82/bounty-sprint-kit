@@ -202,10 +202,35 @@ article p,
   min-height: 236px;
   flex-direction: column;
   align-items: flex-start;
+  gap: 10px;
 }
 
 .product-grid article p {
   flex: 1;
+}
+
+.detail {
+  min-height: 100vh;
+  padding: 56px clamp(20px, 6vw, 88px);
+}
+
+.detail h1 {
+  max-width: 980px;
+}
+
+.detail-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 36px;
+}
+
+.back {
+  display: inline-flex;
+  margin-bottom: 28px;
+  color: var(--accent-dark);
+  font-weight: 800;
+  text-decoration: none;
 }
 
 .checkout {
@@ -246,7 +271,8 @@ article p,
   .hero,
   .checkout,
   .grid,
-  .product-grid {
+  .product-grid,
+  .detail-grid {
     grid-template-columns: 1fr;
   }
 

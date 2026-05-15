@@ -4,6 +4,8 @@ Compact digital kits for AI-assisted developers, solo builders, and open-source 
 
 Live page: https://impetus82.github.io/bounty-sprint-kit/
 
+Keywords: AI developer tools, GitHub bounty search, PR templates, AI coding prompts, README to landing page, static store checkout, AI code review checklist, tiny digital products.
+
 ## What Is Inside
 
 Each kit costs $10 and downloads as a ZIP:
@@ -19,6 +21,19 @@ Each kit costs $10 and downloads as a ZIP:
 - AI Code Review Checklist
 - One Hour Launch Plan
 
+## Individual Product Pages
+
+- https://impetus82.github.io/bounty-sprint-kit/kits/bounty-sprint-kit.html
+- https://impetus82.github.io/bounty-sprint-kit/kits/micro-bounty-search-pack.html
+- https://impetus82.github.io/bounty-sprint-kit/kits/no-kyc-checkout-checklist.html
+- https://impetus82.github.io/bounty-sprint-kit/kits/readme-to-landing-page-kit.html
+- https://impetus82.github.io/bounty-sprint-kit/kits/ai-agent-task-brief-pack.html
+- https://impetus82.github.io/bounty-sprint-kit/kits/github-pr-comment-swipe-file.html
+- https://impetus82.github.io/bounty-sprint-kit/kits/tiny-digital-product-ideas.html
+- https://impetus82.github.io/bounty-sprint-kit/kits/static-store-starter.html
+- https://impetus82.github.io/bounty-sprint-kit/kits/ai-code-review-checklist.html
+- https://impetus82.github.io/bounty-sprint-kit/kits/one-hour-launch-plan.html
+
 ## Payment
 
 Honor-system checkout:
@@ -30,4 +45,3 @@ Honor-system checkout:
 ## Audience
 
 Built for developers who use AI coding tools, submit open-source PRs, build tiny products, or want reusable templates for faster solo work.
-
